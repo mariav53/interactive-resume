@@ -18,3 +18,9 @@ En este proyecto vamos a crear un currículum de forma interactiva haciendo uso 
 - Permitir al usuario introducir información en el formulario y que el texto se muestre en una hoja como resultado final.
 - Permitir que el usuario pueda imprimir el resultado en una página física.
 - Crearemos pestañas o colapsables para mostrar las distintas partes del formulario
+
+**Integrantes del equipo**
+Eva Llorca
+Carmen Rueda
+Teresa Marbán
+Maria Virginia Rivas
