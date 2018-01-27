@@ -21,6 +21,9 @@ En este proyecto vamos a crear un currículum de forma interactiva haciendo uso 
 
 **Integrantes del equipo**
 Eva Llorca
+
 Carmen Rueda
+
 Teresa Marbán
+
 Maria Virginia Rivas
