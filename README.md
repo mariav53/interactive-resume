@@ -20,6 +20,7 @@ En este proyecto vamos a crear un currículum de forma interactiva haciendo uso 
 - Crearemos pestañas o colapsables para mostrar las distintas partes del formulario
 
 **Integrantes del equipo**
+
 Eva Llorca
 
 Carmen Rueda
